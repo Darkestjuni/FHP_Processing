@@ -1,6 +1,6 @@
 # Processing for Designers - Documentation
 A comprehensive course to approach Interfacedesign from another perspective.
-
+<br> <br> <br>
 ## Pong
 This pong game is a functioning version of the Atari original from 1972, aiming to present a retro-styled design along with soundeffects to create an immersive experience.
 ![pong](/images/pong.jpg)
